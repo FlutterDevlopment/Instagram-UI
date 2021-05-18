@@ -1,0 +1,62 @@
+name: instagram_ui
+description: A new Flutter application.
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  flutter_icons: ^1.1.0
+  flutter_staggered_grid_view: ^0.3.4
+  flare_flutter: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: bilabong
+      fonts:
+        - asset: fonts/Billabong.ttf
+    - family: paulGroteskb
+      fonts:
+        - asset: fonts/PaulGrotesk-Bold.otf
+    - family: paulGroteskr
+      fonts:
+        - asset: fonts/PaulGrotesk-Regular.otf
+  assets:
+    - images/
+#    - images/1.jfif
+#    - images/2.jfif
+#    - images/3.jfif
+#    - images/4.jfif
+#    - images/5.jfif
+#    - images/6.jfif
+#    - images/profile.jfif
+#    - images/friends.jpg
+#    - images/a.jfif
+#    - images/b.jfif
+#    - images/c.jfif
+#    - images/d.jfif
+#    - images/e.jfif
+#    - images/f.jfif
+#    - images/g.jfif
+#    - images/h.jfif
+#    - images/i.jfif
+    - profile_images/
+#    - profile_images/pic1.jpg
+#    - profile_images/pic2.jpg
+#    - profile_images/pic3.jpg
+#    - profile_images/pic4.jpg
+#    - profile_images/pic5.jpg
+#    - profile_images/pic6.jpg
+#    - profile_images/pic7.jpg
+#    - profile_images/pic8.jpg
+#    - profile_images/pic9.jpg
+#    - profile_images/pic10.jpg
+#    - profile_images/pic11.jpg
+#    - profile_images/pic12.jpg
+#    - profile_images/pic13.jpg
